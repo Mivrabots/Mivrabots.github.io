@@ -1,0 +1,15 @@
+{
+  "name": "def not moods - Personal Webpage",
+  "short_name": "def not moods",
+  "icons": [
+    {
+      "src": "bot.gif",
+      "sizes": "192x192",
+      "type": "gif"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff"
+}
